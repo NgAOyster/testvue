@@ -1,0 +1,22 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0 0 0;
+  }
+  
+  .centered-form {
+    width: 50%; /* Set width as needed */
+  }
+  
+  .el-form-item__label {
+      display: flex;
+      justify-content:flex-start;
+  }
+
+  .postgres-table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+  }
